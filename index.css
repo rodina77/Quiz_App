@@ -1,0 +1,148 @@
+body
+{
+  background-color: rgb(0, 191, 255);
+}
+.drafted-btn
+{
+  background-color: rgb(216, 216, 216);
+  border: transparent;
+  padding: 7px 30px;
+  cursor: pointer;
+  color: rgb(0, 149, 198);
+}
+#timer
+{
+  float: right;
+  padding-right: 20px;
+  color: rgb(0, 149, 198);
+  font-weight: bold;
+  font-size: 20px;
+}
+form
+{
+  display: block;
+  margin: auto;
+  background-color: white;
+  width: 50%;
+  padding: 30px;
+}
+form input
+{
+  padding: 10px;
+  width: 90%;
+  margin:3px 3px 20px 3px;
+  background-color: white;
+}
+h1
+{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 60px;
+}
+.easy_h1
+{
+  text-align: center;
+  color: rgb(0, 191, 255);
+  background-color: white;
+  font-weight: bold;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 60px;
+  margin: 0;
+  padding: 30px 0px;
+  border-bottom: 6px solid rgb(0, 191, 255);
+}
+#login_btn
+{
+  background-color: rgb(0, 191, 255);
+  color: white;
+  border-radius: 10px;
+  border-color: transparent;
+  padding: 10px 30px;
+  display: block;
+  margin: auto;
+}
+#login_btn:hover
+{
+  cursor: pointer;
+}
+.img_btn
+{
+  margin: 10px;
+}
+.img_btn:hover
+{
+   scale: 1.1;
+   transition-duration: 0.9s;
+}
+
+#result
+{
+  background-color: white;
+  padding: 30px;
+}
+.flex-parent
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.easy-button,.hard-button,.med-button
+{
+
+  padding: 20px 30px;
+  margin: 20px;
+  border: transparent;
+}
+.easy-button:hover,.hard-button:hover,.med-button:hover
+{
+  cursor: pointer;
+  transition-delay: 0.9s;
+  background-color: white;
+}
+.easy-img:hover
+{
+  scale: 1.1;
+  transition-duration: 0.9s;
+  cursor: pointer;
+}
+
+.result_question
+{
+  color: rgb(0, 149, 198);
+  font-size: 20px;
+  font-weight: bold;
+}
+input[type="radio"]
+{
+  margin: 7px;
+}
+input[type="radio"]:hover
+{
+  cursor: pointer;
+}
+#submit_btn
+{
+  padding: 10px 30px;
+  border: none;
+  background-color: rgb(255, 255, 255);
+  color: rgb(7, 82, 107);
+  margin-top: 20px;
+  font-size: 17px;
+}
+#submit_btn:hover
+{
+  cursor: pointer;
+  background-color: rgb(0, 75, 99);
+  transition-delay: 0.4s;
+  color: white;
+}
+.submit_draft
+{
+  background-color: rgb(0, 149, 198);
+  color: white;
+  border: transparent;
+  padding: 10px 30px;
+}

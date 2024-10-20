@@ -1,0 +1,279 @@
+{
+  "EasyPhysics": [
+    {
+      "question": "What is the force that pulls objects toward the Earth?",
+      "answer1": "Gravity",
+      "answer2": "Sky",
+      "answer3": "Ground",
+      "correct": "Gravity",
+      "name":"ques1",
+      "level": "easy"
+    },
+    {
+      "question": "What is the speed of light in a vacuum?",
+      "answer1": "299,792",
+      "answer2": "23",
+      "answer3": "908,8",
+      "correct": "299,792",
+      "name":"ques2",
+      "level": "easy"
+    },
+    {
+      "question": "What is the unit of force in the International System of Units (SI)?",
+      "answer1": "Mickle",
+      "answer2": "newton",
+      "answer3": "Iron",
+      "correct": "newton",
+      "name":"ques3",
+      "level": "easy"
+    },
+    {
+      "question": "What is the law that states for every action, there is an equal and opposite reaction?",
+      "answer1": "Newton's first Law of Motion",
+      "answer2": "Newton's second Law of Motion",
+      "answer3": "Newton's Third Law of Motion",
+      "correct": "Newton's Third Law of Motion",
+      "name":"ques4",
+      "level": "easy"
+    },
+    {
+      "question": "What is the formula for calculating kinetic energy",
+      "answer1": "0.5",
+      "answer2": "0.4",
+      "answer3": "1.9",
+      "correct": "0.5",
+      "name":"ques5",
+      "answer": "0.5",
+      "level": "easy"
+    },
+    {
+      "question": "What is the boiling point of water at sea level in degrees Celsius?",
+      "answer1": "100c",
+      "answer2": "102c",
+      "answer3": "106c",
+      "correct": "100c",
+      "name":"ques6",
+      "level": "easy"
+    },
+    {
+      "question": "What type of energy is stored in a compressed spring?",
+      "answer1": "Elastic potential energy",
+      "answer2": "super potential energy",
+      "answer3": "power potential energy",
+      "correct": "Elastic potential energy",
+      "name":"ques7",
+      "level": "easy"
+    },
+    {
+      "question": "What is the principle that describes how a fluid exerts pressure equally in all directions?",
+      "answer1": "Pascal's Principle",
+      "answer2": "newton's Principle",
+      "answer3": "mickle's Principle",
+      "correct": "Pascal's Principle",
+      "name":"ques8",
+      "level": "easy"
+    },
+    {
+      "question": "What is the effect of increasing the temperature of a gas on its volume, assuming pressure remains constant?",
+      "answer1": "The volume equal to Charles's Law",
+      "answer2": "The volume increases Charles's Law",
+      "answer3": "The volume decrease Charles's Law",
+      "name":"ques9",
+      "correct": "The volume increases Charles's Law",
+      "level": "easy"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "answer1": "Diamond",
+      "answer2": "Glass",
+      "answer3": "wood",
+      "name":"ques10",
+      "correct": "Diamond",
+      "level": "easy"
+    }
+  ],
+  "IntermediatePhysics": [
+    {
+      "question": "What is the difference between scalar and vector quantities?",
+      "answer1": "Gravity",
+      "answer2": "velocity",
+      "answer3": "Ground",
+      "correct": "velocity",
+      "name":"ques1",
+      "level": "medium"
+    },
+    {
+      "question": "In an electric circuit, what does Ohm's Law state",
+      "answer1": "V=I/R",
+      "answer2": "V=I+R",
+      "answer3": "V=I⋅R",
+      "correct": "V=I⋅R",
+      "name":"ques2",
+      "level": "medium"
+    },
+    {
+      "question": "What is the principle of conservation of energy",
+      "answer1": "can created or destroyed",
+      "answer2": "cannot be created or destroyed",
+      "answer3": "created and destroyed",
+      "name":"ques3",
+      "correct": "cannot be created or destroyed",
+      "level": "medium"
+    },
+    {
+      "question": "A car accelerates from rest to 20 m/s in 5 seconds. What is its acceleration?",
+      "answer1": "3",
+      "answer2": "5",
+      "answer3": "4",
+      "name":"ques4",
+      "correct": "4",
+      "level": "medium"
+    },
+    {
+      "question": "A ball is thrown upwards with a speed of 15 m/s. How high does it go? ",
+      "answer1": "11.8 m",
+      "answer2": "11.5 m",
+      "answer3": "12 m",
+      "name":"ques5",
+      "correct": "11.5 m",
+      "level": "medium"
+    },
+    {
+      "question": "A 2 kg object is moving at a speed of 3 m/s. What is its kinetic energy?",
+      "answer1": "9",
+      "answer2": "10",
+      "answer3": "12",
+      "name":"ques6",
+      "correct": "9",
+      "level": "medium"
+    },
+    {
+      "question": "A 10 N force is applied to move an object 3 meters. What is the work done?",
+      "answer1": "28",
+      "answer2": "31",
+      "answer3": "30",
+      "name":"ques7",
+      "correct": "30",
+      "level": "medium"
+    },
+    {
+      "question": "What is the gravitational potential energy of a 5 kg mass at a height of 10 m? ",
+      "answer1": "410",
+      "answer2": "409",
+      "answer3": "408",
+      "name":"ques8",
+      "correct": "409",
+      "level": "medium"
+    },
+    {
+      "question": "A wave has a frequency of 400 Hz and a wavelength of 0.85 m. What is the speed of the wave?",
+      "answer1": "298",
+      "answer2": "776",
+      "answer3": "340",
+      "name":"ques9",
+      "correct": "340",
+      "level": "medium"
+    },
+    {
+      "question": "What is the period of a wave with a frequency of 2 Hz?",
+      "answer1": "0.9",
+      "answer2": "0.6",
+      "answer3": "0.5",
+      "name":"ques10",
+      "correct": "0.5",
+      "level": "medium"
+    }
+  ],
+  "HardPhysics": [
+    {
+      "question": "If a pendulum has a length of 2 m, what is its period?",
+      "answer1": "0.9",
+      "answer2": "2.83",
+      "answer3": "0.5",
+      "name":"ques1",
+      "correct": "2.83",
+      "level": "hard"
+    },
+    {
+      "question": "An object falls for 4 seconds. What is its velocity just before hitting the ground?",
+      "answer1": "32.24",
+      "answer2": "39.24",
+      "answer3": "35.24",
+      "name":"ques2",
+      "correct": "39.24",
+      "level": "hard"
+    },
+    {
+      "question": "If a circuit has a voltage of 12 V and a resistance of 3 ohms, what is the current?",
+      "answer1": "4",
+      "answer2": "2",
+      "answer3": "3",
+      "name":"ques3",
+      "correct": "4",
+      "level": "hard"
+    },
+    {
+      "question": "An object is thrown horizontally from a height of 20 m. How long does it take to hit the ground?",
+      "answer1": "2",
+      "answer2": "2.02",
+      "answer3": "2.52",
+      "name":"ques4",
+      "correct": "2.02",
+      "level": "hard"
+    },
+    {
+      "question": "A spring is compressed by 0.5 m, and its spring constant is 200 N/m. What is the potential energy stored in the spring?",
+      "answer1": "20",
+      "answer2": "25",
+      "answer3": "52",
+      "name":"ques5",
+      "answer": "25",
+      "level": "hard"
+    },
+    {
+      "question": "A car travels 150 km in 2 hours. What is its average speed?",
+      "answer1": "75",
+      "answer2": "29",
+      "answer3": "97",
+      "name":"ques6",
+      "correct": "75",
+      "level": "hard"
+    },
+    {
+      "question": " A 75 kg astronaut is in a spacecraft that accelerates at 2 m/s². What is the net force acting on the astronaut?",
+      "answer1": "135",
+      "answer2": "111",
+      "answer3": "105",
+      "name":"ques7",
+      "correct": "105",
+      "level": "hard"
+    },
+    {
+      "question": "A cyclist increases her velocity from 5 m/s to 15 m/s over a distance of 20 m. What is her acceleration?",
+      "answer1": "1.8",
+      "answer2": "0.9",
+      "answer3": "1",
+      "name":"ques8",
+      "correct": "1",
+      "level": "hard"
+    },
+    {
+      "question": "How much work is done when lifting a 10 kg object to a height of 3 m? ",
+      "answer1": "293",
+      "answer2": "290",
+      "answer3": "294",
+      "name":"ques9",
+      "correct": "294",
+      "level": "hard"
+    },
+    {
+      "question": "What is the resistance of a circuit with a voltage of 24 V and a current of 6 A?",
+      "answer1": "2",
+      "answer2": "4",
+      "answer3": "5",
+      "name":"ques10",
+      "correct": "4",
+      "level": "hard"
+    }
+  ]
+}

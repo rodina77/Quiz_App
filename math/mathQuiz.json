@@ -1,0 +1,269 @@
+{
+  "EasyMathematics": [
+    {
+      "question": "What is 12 + 7",
+      "answer1": "19",
+      "answer2": "20",
+      "answer3": "18",
+      "correct": "19",
+      "name":"ques1",
+      "level": "easy"
+    },
+    {
+      "question": "What is 15 - 9",
+      "answer1": "39",
+      "answer2": "6",
+      "answer3": "18",
+      "correct": "6",
+      "name":"ques2",
+      "level": "easy"
+    },
+    {
+      "question": "What is 2 + 7",
+      "answer1": "9",
+      "answer2": "20",
+      "answer3": "18",
+      "correct": "9",
+      "name":"ques3",
+      "level": "easy"
+    },
+    {
+      "question": "What is 1 + 7",
+      "answer1": "89",
+      "answer2": "20",
+      "answer3": "8",
+      "correct": "8",
+      "name":"ques4",
+      "level": "easy"
+    },
+    {
+      "question": "What is 2 * 10",
+      "answer1": "14",
+      "answer2": "20",
+      "answer3": "18",
+      "correct": "20",
+      "name":"ques5",
+      "level": "easy"
+    },
+    {
+      "question": "What is 19 + 3",
+      "answer1": "19",
+      "answer2": "22",
+      "answer3": "58",
+      "correct": "22",
+      "name":"ques6",
+      "level": "easy"
+    },
+    {
+      "question": "What is 12 + 2",
+      "answer1": "14",
+      "answer2": "20",
+      "answer3": "18",
+      "correct": "14",
+      "name":"ques7",
+      "level": "easy"
+    },
+    {
+      "question": "What is 12 - 2",
+      "answer1": "19",
+      "answer2": "10",
+      "answer3": "18",
+      "correct": "10",
+      "name":"ques8",
+      "level": "easy"
+    },
+    {
+      "question": "What is 3 + 7",
+      "answer1": "19",
+      "answer2": "10",
+      "answer3": "32",
+      "correct": "10",
+      "name":"ques9",
+      "level": "easy"
+    },
+    {
+      "question": "What is 10 / 2",
+      "answer1": "19",
+      "answer2": "5",
+      "answer3": "18",
+      "correct": "5",
+      "name":"ques10",
+      "level": "easy"
+    }
+  ],
+  "IntermediateMathematics": [
+    {
+      "question": "Solve for x: 3x + 5 = 20",
+      "answer1": "5",
+      "answer2": "20",
+      "answer3": "18",
+      "correct": "5",
+      "name":"ques1",
+      "level": "medium"
+    },
+    {
+      "question": "If the area of a circle is 50π, what is the radius?",
+      "answer1": "19",
+      "answer2": "5",
+      "answer3": "18",
+      "correct": "5",
+      "name":"ques2",
+      "level": "medium"
+    },
+    {
+      "question": "What is 15% of 200?",
+      "answer1": "19",
+      "answer2": "30",
+      "answer3": "18",
+      "correct": "30",
+      "name":"ques3",
+      "level": "medium"
+    },
+    {
+      "question": "Solve for y: 2y/3 - 4 = 2",
+      "answer1": "9",
+      "answer2": "20",
+      "answer3": "18",
+      "correct": "9",
+      "name":"ques4",
+      "level": "medium"
+    },
+    {
+      "question": "What is the value of (32+42)1/2(32+42)1/2",
+      "answer1": "19",
+      "answer2": "5",
+      "answer3": "18",
+      "correct": "5",
+      "name":"ques6",
+      "level": "medium"
+    },
+    {
+      "question": "If 2x + 3 = 11, what is the value of x?",
+      "answer1": "19",
+      "answer2": "4",
+      "answer3": "18",
+      "correct": "4",
+      "name":"ques7",
+      "level": "medium"
+    },
+    {
+      "question": "What is the product of the roots of the equation x^2 - 5x + 6 = 0?",
+      "answer1": "89",
+      "answer2": "20",
+      "answer3": "6",
+      "correct": "6",
+      "name":"ques8",
+      "level": "medium"
+    },
+    {
+      "question": "What is the slope of the line represented by the equation 4x - 2y = 8?",
+      "answer1": "19",
+      "answer2": "2",
+      "answer3": "18",
+      "correct": "2",
+      "name":"ques9",
+      "level": "medium"
+    },
+    {
+      "question": "If a triangle has angles of 40° and 70°, what is the measure of the third angle?",
+      "answer1": "10",
+      "answer2": "70",
+      "answer3": "68",
+      "correct": "70",
+      "name":"ques10",
+      "level": "medium"
+    }
+  ],
+  "HardMathematics": [
+    {
+      "question": "What is the value of pi, rounded to two decimal places?",
+      "answer1": "3.12",
+      "answer2": "3.14",
+      "answer3": "3.36",
+      "correct": "3.14",
+      "name":"ques1",
+      "level": "hard"
+    },
+    {
+      "question": "If a triangle has angles of 30 degrees and 60 degrees, what is the measure of the third angle?",
+      "answer1": "32",
+      "answer2": "90",
+      "answer3": "36",
+      "correct": "90",
+      "name":"ques2",
+      "level": "hard"
+    },
+    {
+      "question": "What is the area of a circle with a radius of 5 units?",
+      "answer1": "2",
+      "answer2": "36.4",
+      "answer3": "3.36",
+      "correct": "78.54",
+      "name":"ques3",
+      "level": "hard"
+    },
+    {
+      "question": "If two sides of a rectangle are 3 units and 4 units long, what is the perimeter of the rectangle?",
+      "answer1": "32",
+      "answer2": "14",
+      "answer3": "6",
+      "correct": "14",
+      "name":"ques4",
+      "level": "hard"
+    },
+    {
+      "question": "In a standard deck of cards, how many hearts are there?",
+      "answer1": "13",
+      "answer2": "54",
+      "answer3": "3",
+      "correct": "13",
+      "name":"ques5",
+      "level": "hard"
+    },
+    {
+      "question": "If a number is multiplied by zero, what is the result?",
+      "answer1": "12",
+      "answer2": "0",
+      "answer3": "6",
+      "correct": "0",
+      "name":"ques6",
+      "level": "hard"
+    },
+    {
+      "question": "What is the next prime number after 7?",
+      "answer1": "12",
+      "answer2": "11",
+      "answer3": "36",
+      "correct": "11",
+      "name":"ques7",
+      "level": "hard"
+    },
+    {
+      "question": "How many faces does a cube have?",
+      "answer1": "2",
+      "answer2": "3",
+      "answer3": "6",
+      "correct": "6",
+      "name":"ques8",
+      "level": "hard"
+    },
+    {
+      "question": "What is the square root of 64?",
+      "answer1": "8",
+      "answer2": "4",
+      "answer3": "36",
+      "correct": "8",
+      "name":"ques9",
+      "level": "hard"
+    },
+    {
+      "question": "What is the total number of degrees in a quadrilateral?",
+      "answer1": "360",
+      "answer2": "314",
+      "answer3": "336",
+      "correct": "360",
+      "name":"ques10",
+      "level": "hard"
+    }
+  ]
+}
